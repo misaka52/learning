@@ -62,6 +62,5 @@ public class c2_java {
         // demoException();
         demoCommon();
         System.out.println("The End!");
-        System.out.println("after");
     }
 }
